@@ -1,3 +1,28 @@
 {
-  "cake": []
+  "cake": [
+    {
+      "name": "dsad",
+      "other": "dsa",
+      "picture": null,
+      "id": 1
+    },
+    {
+      "name": "dsadasds",
+      "other": "adadad",
+      "picture": null,
+      "id": 2
+    },
+    {
+      "name": "fds",
+      "other": "fdsfs",
+      "picture": null,
+      "id": 3
+    },
+    {
+      "name": "das",
+      "other": "dsadsa",
+      "picture": null,
+      "id": 4
+    }
+  ]
 }
